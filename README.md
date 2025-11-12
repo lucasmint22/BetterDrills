@@ -1,5 +1,4 @@
 # BetterDrils
-![banner](icon.png)
 
 ## An Mindustry mod with a HJSON Drill.
 
