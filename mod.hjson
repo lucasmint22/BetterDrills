@@ -1,12 +1,13 @@
-name: ep-json
-displayName: JSON Example Solar System!
-author: Slotterleet
-subtitle: Themelight included
+name: BetterDrills
+displayName: Better Drills.
+author: Lucas
+subtitle: Dry Drill?
 description: 
 '''
-This planet has (almost) every single field you can declare in JSON planets. Press the "Repo" button below to see the source code.
+This drill has (almost) every single field you can declare in JSON drills. Press the "Repo" button below to see the source code.
 
-This is NOT meant to be played.
+This is meant to be played
 '''
-repo: Slotterleet/example-planet-json
+repo: lucasmint22/BetterDrills
 minGameVersion: 146
+
