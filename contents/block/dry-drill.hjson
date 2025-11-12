@@ -1,0 +1,13 @@
+name: Dry Drill
+description: A dry drill, capable of mining titanium. Mines at a insane speed.
+type: Drill
+size: 3
+tier: 3
+drawMineItem: true
+requirements: [
+  copper/90
+  titanium/9
+  silicon/3
+]
+category: production
+research: mechanical-drill
